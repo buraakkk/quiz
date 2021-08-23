@@ -1,7 +1,7 @@
                                                👋WELCOME TO MY QUIZ APP👋
                                                      
 This repository comes with some nice extras like testing, documentation and CI, but in it's heart it's just an HTML/CSS/JS website boilerplate.
-This site was built using [Demo](https://burak-teamproject-quiz.netlify.app/#).
+This site was built using [Demo](https://burak-teamproject-quiz.netlify.app/#)
 
 ## Development
 

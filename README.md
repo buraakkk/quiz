@@ -5,9 +5,8 @@ This repository comes with some nice extras like testing, documentation and CI, 
 ## Development
 
 To run this project locally you will need to open `index.html` in your browser using a local server. LiveServer, `http-server`, `study-lenses`, or any other local static server will work.
-![image](https://user-images.githubusercontent.com/50028862/130520690-e484a57f-0cf9-4a52-99b2-50e305a11606.png)
-![image](https://user-images.githubusercontent.com/50028862/130520738-fe37022c-7502-4c47-a023-bc1a041ab9ae.png)
-![image](https://user-images.githubusercontent.com/50028862/130520775-ac6484a0-fc55-4b53-99c0-63feac766a5d.png)
+![image](https://user-images.githubusercontent.com/50028862/130521159-9aebd0a8-d0e2-4733-8a9b-1ab911c6ca94.png)
+
 
 
 

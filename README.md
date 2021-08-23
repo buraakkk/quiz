@@ -3,17 +3,19 @@
 This repository comes with some nice extras like testing, documentation and CI, but in it's heart it's just an HTML/CSS/JS website boilerplate.
 This site was built using [Demo](https://burak-teamproject-quiz.netlify.app/#)
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 ## Development
 
 To run this project locally you will need to open `index.html` in your browser using a local server. LiveServer, `http-server`, `study-lenses`, or any other local static server will work.
+
 ![image](https://user-images.githubusercontent.com/50028862/130521159-9aebd0a8-d0e2-4733-8a9b-1ab911c6ca94.png)
 
-
-
-
 ## Installing Dependencies
+
+git clone git@github.com:Nazeh/weather-app.git
+npm install
+npm run build
+
 
 There are no dependencies needed to run the website, everything is prepared to work with vanilla JavaScript. However, if you want to install prettier for this project then run (generally you always want to do this if you see a `package.json` file):
 

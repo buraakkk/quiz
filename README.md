@@ -3,6 +3,8 @@
 This repository comes with some nice extras like testing, documentation and CI, but in it's heart it's just an HTML/CSS/JS website boilerplate.
 This site was built using [Demo](https://burak-teamproject-quiz.netlify.app/#)
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 ## Development
 
 To run this project locally you will need to open `index.html` in your browser using a local server. LiveServer, `http-server`, `study-lenses`, or any other local static server will work.

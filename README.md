@@ -32,5 +32,5 @@ So what should be built? The [Project Board](https://github.com/wilgert/browser-
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
-Feel free to check issues page.(https://github.com/buraakkk/quiz.git/#)
+Feel free to check [issues page](https://github.com/buraakkk/quiz.git/#)
 

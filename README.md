@@ -11,11 +11,13 @@ To run this project locally you will need to open `index.html` in your browser u
 ![image](https://user-images.githubusercontent.com/50028862/130521159-9aebd0a8-d0e2-4733-8a9b-1ab911c6ca94.png)
 
 ## Installing Dependencies
+
 ```
 git clone https://github.com/buraakkk/quiz.git
 npm install
 npm run build
 ```
+
 ## Usage
 ```
 npm start
